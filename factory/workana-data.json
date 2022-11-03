@@ -1,0 +1,9 @@
+{
+	"name": "workana-data",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "586a2c5e-b791-4e16-a5fe-2a4c97e2ed10",
+		"tenantId": "ae4cc97c-b632-43b8-b8d1-bb7819b34aca"
+	}
+}
